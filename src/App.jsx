@@ -1,11 +1,14 @@
-import React from 'react'
+import React from "react";
+import Header from "./header/header";
+import ContentBox from "./Content/contentBox";
 
 const App = () => {
   return (
-    <div>
-      <h1>Travel UI Cards</h1>
-    </div>
-  )
-}
+    <>
+      <Header />
+      <ContentBox />
+    </>
+  );
+};
 
-export default App
+export default App;
