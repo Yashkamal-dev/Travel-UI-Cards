@@ -7,8 +7,17 @@
 
   display: grid;
   grid-auto-rows: 1fr 1fr;
-  box-shadow: 3px 3px 20px black;
+  box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.422);
+
   border: 1px solid rgb(159, 158, 158);
+
+  transition: all 0.3s ease-in;
+}
+
+.card:hover {
+  transform: translateY(-8px);
+  scale: 1.05;
+  box-shadow: 3px 3px 20px rgba(0, 0, 0, 0.724);
 }
 
 .image {
@@ -28,7 +37,7 @@
   grid-row: 2 / 3;
 
   padding: 20px;
-  backdrop-filter: blur(7px);
+  backdrop-filter: blur(5px);
   border-bottom-left-radius: 45px;
   border-bottom-right-radius: 45px;
 }
@@ -79,4 +88,5 @@
   padding: 7px;
   background-color: #fff;
   border: none;
+  cursor: pointer;
 }
