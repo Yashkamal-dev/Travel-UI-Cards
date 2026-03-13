@@ -35,13 +35,13 @@ Here’s a preview of a card with hover effect:
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/react-cards-practice.git
+git clone https://github.com/Yashkamal-dev/Travel-UI-Cards.git
 ```
 
 2. Navigate into the project folder:
 
 ```bash
-cd react-cards-practice
+cd Travel-UI-Cards
 ```
 
 3. Install dependencies:
@@ -50,37 +50,31 @@ cd react-cards-practice
 npm install
 ```
 
-4. Install dependencies:
-
-```bash
-npm install
-```
-
 ## Folder Structure
 
 ```bash
-├── src/ (2000 tokens)
+├── src/
 ├── App.css
-├── Content/ (300 tokens)
+├── Content/
 │ ├── contentBox.module.css
-│ └── contentBox.jsx (200 tokens)
+│ └── contentBox.jsx
 ├── main.jsx
 ├── App.jsx
-├── header/ (200 tokens)
+├── header/
 │ ├── header.module.css
 │ └── header.jsx
 ├── index.css
-├── Components/ (600 tokens)
-│ ├── card.jsx (200 tokens)
-│ └── card.module.css (400 tokens)
-└── Data/ (600 tokens)
-│ └── data.jsx (600 tokens)
+├── Components/
+│ ├── card.jsx
+│ └── card.module.css
+└── Data/
+│ └── data.jsx
 ├── vite.config.js
 ├── README.md
 ├── .gitignore
 ├── index.html
-├── package.json (200 tokens)
-└── eslint.config.js (200 tokens)
+├── package.json
+└── eslint.config.js
 ```
 
 ## Technologies Used
