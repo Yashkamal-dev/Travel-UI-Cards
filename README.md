@@ -5,7 +5,7 @@ The project is **not production-level**, but it's a fun playground to explore Re
 
 ---
 
-## Features
+## 🔹 Features
 
 - **Reusable Card Component**: Each card displays an image, title, description, price, and additional info.
 - **Hover Effects**: Smooth lift and scale animation on hover.
@@ -15,7 +15,7 @@ The project is **not production-level**, but it's a fun playground to explore Re
 
 ---
 
-## Demo
+## 🔹 Demo
 
 Here’s a preview of a card with hover effect:
 
@@ -23,7 +23,7 @@ Here’s a preview of a card with hover effect:
 
 ---
 
-## Getting Started
+## 🔹 Getting Started
 
 ### Prerequisites
 
@@ -50,7 +50,7 @@ cd Travel-UI-Cards
 npm install
 ```
 
-## Folder Structure
+## 🔹 Folder Structure
 
 ```bash
 ├── src/
@@ -77,14 +77,20 @@ npm install
 └── eslint.config.js
 ```
 
-## Technologies Used
+---
+
+
+## 🔹 Technologies Used
 
 - **React** - for building reusable components
 - **CSS Grid** - for layout
 - **CSS Transitions & Transform** - for hover animations
 - **Backdrop Filter** - for blur effects on card info
 
-## Notes
+---
+
+
+## 🔹 Notes
 
 - This project was mainly for **practice**, so features are minimal.
 - Hover animations and blur effects were added to **explore interactive UI techniques**.
