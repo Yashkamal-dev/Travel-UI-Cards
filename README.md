@@ -19,7 +19,7 @@ The project is **not production-level**, but it's a fun playground to explore Re
 
 Here’s a preview of a card with hover effect:
 
-<img src="./docs/preview.png" width="390">
+<img src="./docs/preview.png">
 
 ---
 
